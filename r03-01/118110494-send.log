@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-09-03T10:24:13.716-0300</date>
+  <logger>NATHAN ANDRADE HENRIQUES</logger>
+  <level>FINE</level>
+  <message>File 118110494-NATHAN ANDRADE HENRIQUES.zip was received. It was sent by NATHAN ANDRADE HENRIQUES from IP 192.168.15.9 at 03-09-2019 10*24*13</message>
+</record>
